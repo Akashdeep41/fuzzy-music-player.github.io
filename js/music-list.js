@@ -31,8 +31,8 @@ let allMusic = [
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Dil Mera Blast",
+    artist: "Darshan Raval",
     img: "music-6",
     src: "music-6"
   }
